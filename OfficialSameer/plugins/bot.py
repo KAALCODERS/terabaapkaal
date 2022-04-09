@@ -100,7 +100,7 @@ async def ping(e):
 @SAM10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Restarting Your Deadly Spam Bot**.. Please Wait Until It Starts Again"
+        text = "**𝙍𝙀𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝙔𝙊𝙐𝙍 𝙆𝘼𝘼𝙇 𝙐𝙎𝙀𝙍𝘽𝙊𝙏𝙎**.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await SAM.disconnect()

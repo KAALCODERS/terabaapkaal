@@ -1,4 +1,4 @@
-#  - 𝗗𝗘𝗔𝗗𝗟𝗬 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 -
+#  - TERA BAAP KAAL SPAM -
 
 <p align="center">
   <img src="https://telegra.ph/file/be526220ab16ee5504652.jpg">

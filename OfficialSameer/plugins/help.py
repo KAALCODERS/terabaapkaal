@@ -5,11 +5,11 @@ from time import time
 from datetime import datetime
 from OfficialSameer import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+HELP_PIC = "https://telegra.ph/file/be526220ab16ee5504652.jpg"
 
-SAM_Help = "🔥 Dᴇᴀᴅʟʏ Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
+SAM_Help = "🔥 𝙆𝘼𝘼𝙇 𝙎𝙋𝘼𝙈 𝘽𝙊𝙏 🔥\n\n"
  
-SAM_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
+SAM_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ 𝙆𝘼𝘼𝙇 𝙎𝙋𝘼𝙈__\n\n"
 
 SAM_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -23,7 +23,7 @@ SAM_Help += f" ↧ 𝚂𝙿𝙰𝙼 𝙲𝙼𝙳𝚂 ↧\n\n"
 
 SAM_Help += f" `.raid` - to raid\n `.replyraid` - to active reply raid\n `.dreplyraid` - to de-active reply raid\n `.spam` - this cmd use for Normal spam\n `.bigspam` - this cmd use for big spam\n `.uspam` - this cmd use for unlimited Spam until You restart the bots!!\n `.delayspam` - this cmd use for delay spam\n `.pornspam` - this cmd is use for porn spam\n\n"
 
-SAM_Help += f"© @Deadly_spambot\n"
+SAM_Help += f"© @KAAL_NETWORK\n"
 
 
 @SAM.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -34,10 +34,10 @@ async def help(event):
                                   caption=SAM_Help,
                                   buttons=[
         [
-        Button.url("ᴀʟʟ ᴄᴍᴅs", "https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-11-28-2")
+        Button.url("ᴀʟʟ ᴄᴍᴅs", "ITS_HEAVEN_KING")
         ],
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Deadly_spam_bot")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/KAAL_NETWORK")
         ] 
         ]
         )                                                         

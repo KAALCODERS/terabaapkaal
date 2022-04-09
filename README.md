@@ -1,7 +1,7 @@
 #  - 𝗗𝗘𝗔𝗗𝗟𝗬 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 -
 
 <p align="center">
-  <img src="https://telegra.ph/file/62bb6ed474f0cb497b0e5.jpg">
+  <img src="https://telegra.ph/file/be526220ab16ee5504652.jpg">
 </p>
 
 
@@ -17,14 +17,7 @@
 ----
 
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
-                          
-<a href="https://t.me/Deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Deadly_spambot"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
--------------------------------------------------
-
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Akki](https://t.me/Godfatherakki)
 
 -------------------------------------------------
 ## 🚀 Deploy on Heroku 

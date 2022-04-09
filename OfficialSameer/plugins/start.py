@@ -12,7 +12,7 @@ Deadly_Button = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/kaal_network")
         ],
         [
-        Button.url("• ᴄᴍᴅs •", "https://t.me/its_heaven_king")
+        Button.url("• 𝙆𝘼𝘼𝙇 •", "https://t.me/its_heaven_king")
         ]
         ]
                
